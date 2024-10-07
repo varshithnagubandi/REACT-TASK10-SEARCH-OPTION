@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <center>
-        <h1 className="mainheading">ENTER CITIES TO SEARCH . . .</h1>
+        <h1 className="mainheading">ENTER CITIES TO SEARCH . . . .</h1>
         <input
           type="text"
           value={search}
